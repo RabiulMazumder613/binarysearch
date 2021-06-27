@@ -1,3 +1,11 @@
+# Python3 program to calculate sum of
+# all numbers present in a str1ing
+# containing alphanumeric characters
+
+# Function to calculate sum of all
+# numbers present in a str1ing
+# containing alphanumeric characters
+
 s = "11aa32bbb5"
 
 def solve(s):
